@@ -1,198 +1,309 @@
-{"name":"SUPERVECTAR IPTV",
- "author":"SuperVectar",
- "url":"https://raw.githubusercontent.com/supervectar-coder/SUPERVECTARW3U/refs/heads/main/SUPERVECTAR%20IPTV%20W3U%20github.w3u",
- "image":"https://i.ibb.co/7dGjZb80/6.jpg",
- "imageScale":"",
- "contact":"",
- "info":"",
- "groups":[
- 
-{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
-         "name":"APPS ANDROID Necesarias",
-         "info":"apps android",
-         "image":"https://i.ibb.co/VY6PGD1T/logo-android.png",
-         "imageScale":"",
-         "stations":[
-            {"name":"WARP 1.1.1.1",
-               "info":"VPN",
-               "image":"https://i.ibb.co/gbq6mczD/descarga.jpg",
-               "url":"https://one.one.one.one/es-ES/",
-               "embed":true},
-            {"name":"RISEUP",
-               "info":"VPN",
-               "image":"https://i.ibb.co/8gf4hHGC/rise.jpg",
-               "url":"https://drive.google.com/file/d/1tl1VclEQ5WhpbWy972ezzSl2hTLrwz6K/view?usp=sharing",
-               "embed":true},
-            {"name":"PROTON",
-               "info":"VPN",
-               "image":"https://i.ibb.co/SXfs1FpY/proton-vpn-logo-svg.jpg",
-               "url":"https://drive.google.com/file/d/1zm5rsr9L3qU7Xxa7lxCPwTs74sFEB6Z3/view?usp=drive_link",
-               "embed":true}
-         ]}, 
- 
- 
-{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
-         "name":"APPS IPHONE Necesarias",
-         "info":"apps iphone ipad",
-         "image":"https://i.ibb.co/cSp7mCfg/logo-apple.png",
-         "imageScale":"",
-         "stations":[
-            {"name":"WARP 1.1.1.1",
-               "info":"VPN",
-               "image":"https://i.ibb.co/gbq6mczD/descarga.jpg",
-               "url":"https://one.one.one.one/es-ES/",
-               "embed":true}
- 
-         ]}, 
- 
- 
- 
-{"logo":"♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
-         "name":"Listas IPTV SV España",
-         "image":"https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-         "imageScale":"",
-         "groups":[
-            {"name": "ES 04/04/2027 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "https://raw.githubusercontent.com/supervectar-coder/listaES/refs/heads/main/listaES.m3u",
-               "import": false},
-            {"name": "ES 14/12/2026 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "https://raw.githubusercontent.com/supervectar-coder/listaES2/refs/heads/main/listaES2.m3u",
-               "import": false},
-            {"name": "ES (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "https://raw.githubusercontent.com/supervectar-coder/listaES3/refs/heads/main/listaES3.m3u",
-               "import": false},
-            {"name": "ES (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "https://raw.githubusercontent.com/supervectar-coder/listaES4/refs/heads/main/listaES4.m3u",
-               "import": false},
-            {"name": "ES 25/02/2027 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://03022026papedy02xx.latv4.com:8080/get.php?username=paco_pol2&password=34ed34r223&type=m3u_plus",
-               "import": false},
-            {"name": "ES 04/10/2026 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "https://odin5.afroditatv.xyz:8443/get.php?username=4187TF95Vj&password=R7LkOvcTzY&type=m3u_plus",
-               "import": false},
-            {"name": "08/06/2026 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://websafety101.net:5050/get.php?username=cruzito2184@gmail.com&password=7MTkYmaaMT&type=m3u_plus",
-               "import": false},
-            {"name": "PELIS SERIES 25/02/2027 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://03022026papedy02xx.latv4.com:8080/get.php?username=paco_pol2&password=34ed34r223&type=m3u_plus",
-               "import": false},
-            {"name": "PELIS SERIES 04/10/2026 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "https://odin5.afroditatv.xyz:8443/get.php?username=4187TF95Vj&password=R7LkOvcTzY&type=m3u_plus",
-               "import": false}
-
-         ]},
-
- {"logo":"♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
-         "name":"Listas IPTV SV Internacionales",
-         "image":"https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-         "imageScale":"",
-         "groups":[
-
-            {"name": "IN 09/08/2027 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://yo.voto.a.riquelme.neohocep.top:8080/get.php?username=23175477255444&password=54rx3e9acrtt&type=m3u_plus",
-               "import": false},
-            {"name": "IN 04/04/2027 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://hnsefpop.top:8080/get.php?username=951735992399641&password=b1fd3429430e&type=m3u_plus&output=ts",
-               "import": false},
-            {"name": "IN 10/01/2027 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://hnsefpop.top:8080/get.php?username=4571736528680646&password=836e9966780f&type=m3u_plus&output=ts",
-               "import": false},
-            {"name": "IN 14/12/2026 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://hnsefpop.top:8080/get.php?username=14171572141462&password=51741346610266&type=m3u_plus&output=ts",
-               "import": false},
-            {"name": "IN 08/06/2026 (vpn ?)",
-               "info":"",
-               "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-               "url": "http://websafety101.net:5050/get.php?username=cruzito2184@gmail.com&password=7MTkYmaaMT&type=m3u_plus",
-               "import": false}
-         ]},
- 
-{"logo":"♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
-         "name":"Listas IPTV TV PUBLICA",
-         "image":"https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
-         "imageScale":"",
-         "groups":[
-            {"name":"IPTV TV TDT 🇪🇸",
-               "info":"SIN CADUCIDAD",
-               "image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
-               "url": "https://www.tdtchannels.com/lists/tvradio.m3u8",
-               "import":false},
-            {"name":"IPTV TV TDT global",
-               "info":"SIN CADUCIDAD",
-               "image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
-               "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
-               "import":false},
-            {"name":"VAVOO (vpn ??)",
-               "info":"SIN CADUCIDAD",
-               "image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
-               "url": "https://raw.githubusercontent.com/SuperNova-Repo/Vavuu-IPTV/main/Vavoo-IPTV-All_Countries.m3u8",
-               "import":false}
- 
-         ]},
- 
-{"logo":"♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
-         "name":"OTRAS Listas IPTV",
-         "image":"https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
-         "imageScale":"",
-         "groups":[
- 
-            {"name": "IPTV Iptvlandia (vpn ??)",
-               "info":"",
-               "image": "https://wiseplaytv-josepimbatv@i.ibb.co/k2QCgcW6/iptvlandia.png",
-               "url": "https://gist.githubusercontent.com/josepimba/c03c5a68d1f23c362b6451bb0d3a4bce/raw/iptvlandia.w3u",
-               "import": false},
-            {"name": "IPTV Libreria (vpn ??)",
-               "info":"",
-               "image": "https://cdn-icons-png.flaticon.com/512/695/695896.png",
-               "url": "https://gist.githubusercontent.com/josepimba/45d5343d3a363fb0f31eab9271bebe57/raw/libreriaiptv.w3u",
-               "import": false},
-            {"name": "IPTVs Ipts Four You (vpn ??)",
-               "info":"",
-               "image": "https://i.postimg.cc/vBXLqtcp/logo8-28-02839.png",
-               "url": "https://raw.githubusercontent.com/XUPERLISTS/IPTS_FOR_YOU/main/IPTS.FOR.YOU.w3u",
-               "import": false},
-            {"name": "IPTVs Xuperplay (vpn ??)",
-               "info":"",
-               "image": "https://i.postimg.cc/rz6mKr7L/logo4-21-12413.png",
-               "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/XUPERPLAY.w3u",
-               "import": false},
-            {"name": "IPTV IpT XpOrTs (vpn ??)",
-               "info":"",
-               "image": "https://i.postimg.cc/W3pgJc8p/logo3-3-22287.png",
-               "url": "https://raw.githubusercontent.com/XUPERLISTS/GROUP-XUPERLIST-XPORTS-/main/07.IPT.XPORTS.w3u",
-               "import": false},
-            {"name": "IPTVs Tiniworld (vpn ??)",
-               "info":"",
-               "image": "https://i.postimg.cc/q78jR286/logo2-16-162339.png",
-               "url": "https://tinworld.vercel.app/05.Menu.Iptv.+.Vpn.w3u",
-               "import": false}
-         ]}
- 
- 
-   ]}
+{
+  "name": "LISTAS SUPERVECTAR",
+  "url": "https://raw.githubusercontent.com/supervectar-coder/SUPERVECTARW3U/refs/heads/main/SUPERVECTAR%20IPTV%20W3U%20github.w3u",
+  "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+  "author": "SuperVectar",
+  "telegram": "",
+  "groups": [
+    {
+      "name": "🔗 thenewxtreme202... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://thenewxtreme2025.xyz:8080/get.php?username=17byroncastillo&password=cr5jTxxvyS&type=m3u_plus"
+    },
+    {
+      "name": "🔗 thenewxtreme202... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://thenewxtreme2025.xyz:8080/get.php?username=Patricia99&password=Patricia99&type=m3u_plus"
+    },
+    {
+      "name": "🔗 thenewxtreme202... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://thenewxtreme2025.xyz:8080/get.php?username=JoseBombon&password=4eTqfgcxcD&type=m3u_plus"
+    },
+    {
+      "name": "🔗 somoseluno.blog - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://somoseluno.blog:80/get.php?username=9mQxLW8jGj5s&password=GekDyup9gYLR&type=m3u_plus&output=ts"
+    },
+    {
+      "name": "🔗 p2premium.club - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://p2premium.club/get.php?username=prf170523&password=uehevekge&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 p2premium.club - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://p2premium.club:80/get.php?username=prf170523&password=uehevekge&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 p2premium.club - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://p2premium.club/get.php?username=WilsonSweetgreenIPTVCLUB&password=h5BPJGRz8Lk5&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 1streamtv.online - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://1streamtv.online:2095/get.php?username=462-102-1045&password=3bc16cc1&type=m3u_plus"
+    },
+    {
+      "name": "🔗 tv.zeuspro.xyz - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://tv.zeuspro.xyz:8080/get.php?username=JimmyH2021&password=U99uV4HAGB&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 aioplus.es - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://aioplus.es:80/get.php?username=12345678&password=87654321&type=m3u_plus"
+    },
+    {
+      "name": "🔗 starlatino.tv - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://starlatino.tv:8880/get.php?username=5eyu773DUhua&password=yU29Wd3GXvTp&type=m3u_plus"
+    },
+    {
+      "name": "🔗 flexlive.lat - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://flexlive.lat:8080/get.php?username=ReneAcebedoRA&password=psrQTpU89VU2&type=m3u_plus"
+    },
+    {
+      "name": "🔗 flexlive.lat - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://flexlive.lat:8080/get.php?username=SoldiamarMatamoros1024&password=e4ExXBdcnJ67&type=m3u_plus"
+    },
+    {
+      "name": "🔗 flexlive.lat - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://flexlive.lat:8080/get.php?username=JhonSandoval2&password=H84TACX39&type=m3u_plus"
+    },
+    {
+      "name": "🔗 starlatino.tv - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://starlatino.tv:8880/get.php?username=Estefania333&password=E7RRzxvcdmbE&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 p2premium.club - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://p2premium.club/get.php?username=Clientefl164&password=def979067f8d77fd&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 p2premium.club - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://p2premium.club:80/get.php?username=Clientefl164&password=def979067f8d77fd&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 miotv.cc - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://miotv.cc:8080/get.php?username=Sarita&password=Sarita&type=m3u_plus"
+    },
+    {
+      "name": "🔗 zonacero.lat - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://zonacero.lat:8080/get.php?username=Cris&password=Cris&type=m3u_plus"
+    },
+    {
+      "name": "🔗 cinemagold.org - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://cinemagold.org:8880/get.php?username=YOL345PEZ564DAS&password=PER786YAL234DA&type=m3u_plus"
+    },
+    {
+      "name": "🔗 master2.vip - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://master2.vip:8080/get.php?username=02seGUNdo846132&password=06ROjASseguNdo645127&type=m3u_plus"
+    },
+    {
+      "name": "🔗 rssll.idrazn.com - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://rssll.idrazn.com:8080/get.php?username=delos&password=redlos&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 rssll.idrazn.com - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://rssll.idrazn.com:8080/get.php?username=redadil25&password=redadil1&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 rssll.idrazn.com - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://rssll.idrazn.com:8080/get.php?username=LabVx7rzGtQ8&password=zZGxuV6VuEqs&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 planettvweb.com - Argeo_32",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://planettvweb.com:8091/get.php?username=NataliaBonilla&password=Bonilla359&type=m3u_plus"
+    },
+    {
+      "name": "🔗 planettvweb.com - Argeo_32",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://planettvweb.com:8091/get.php?username=Ernesto5489&password=GLad2547&type=m3u_plus"
+    },
+    {
+      "name": "🔗 planettvweb.com - Argeo_32",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://planettvweb.com:8091/get.php?username=kzntv018&password=99110288&type=m3u_plus"
+    },
+    {
+      "name": "🔗 i0jewxoac6.gian... - Argeo_32",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://i0jewxoac6.gianni22.xyz:80/get.php?username=mgg_210610224&password=armandoE2&type=m3u_plus"
+    },
+    {
+      "name": "🔗 31.43.191.125 - Argeo_32",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://31.43.191.125:8080/get.php?username=jorge&password=jorge&type=m3u_plus"
+    },
+    {
+      "name": "🔗 vpjertrcww.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vpjertrcww.top:8080/get.php?username=antonio_barq&password=d73ypwYzgM5M&type=m3u_plus"
+    },
+    {
+      "name": "🔗 voojtrvootp.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://voojtrvootp.top:8080/get.php?username=VIP01471754905064545&password=45d2e2c03db4&type=m3u_plus"
+    },
+    {
+      "name": "🔗 vppyddncr.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vppyddncr.top:8080/get.php?username=VIP01401171593391679&password=0b3d8c40b851&type=m3u_plus"
+    },
+    {
+      "name": "🔗 vooezao.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vooezao.top:8080/get.php?username=VIP0155169513131921&password=51696769842064&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 neosfpoo.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://neosfpoo.top:8080/get.php?username=3111759656082840&password=eaa111aab0d8&type=m3u_plus"
+    },
+    {
+      "name": "🔗 vppyddncr.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vppyddncr.top:8080/get.php?username=vip3821778686846&password=b94a43b5b653&type=m3u_plus&output=ts"
+    },
+    {
+      "name": "🔗 vppyddncr.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vppyddncr.top:8080/get.php?username=VIP013971759696209991&password=f1e6f059faf2&type=m3u_plus&output=ts"
+    },
+    {
+      "name": "🔗 vppyddncr.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vppyddncr.top:8080/get.php?username=SVIP0164176667389018&password=m2g7sh664cwu&type=m3u_plus&output=ts"
+    },
+    {
+      "name": "🔗 vppyddncr.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vppyddncr.top:8080/get.php?username=VIP01486171803935884&password=c22fa457d49b&type=m3u_plus&output=ts"
+    },
+    {
+      "name": "🔗 tv.dimaiptv.com - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://tv.dimaiptv.com/get.php?username=5656&password=5656&type=m3u_plus"
+    },
+    {
+      "name": "🔗 vip.europaiptv.vip - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vip.europaiptv.vip:2086/get.php?username=Volakanuzunyeni2&password=56anyQjCEU&type=m3u_plus"
+    },
+    {
+      "name": "🔗 4z4.xyz - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://4z4.xyz:8080/get.php?username=rashad1alawadi&password=0046707531082aswe1&type=m3u_plus"
+    },
+    {
+      "name": "🔗 kaantv.site - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://kaantv.site:8000/get.php?username=kaan21084&password=rgdt4f581r8fd4d45e&type=m3u_plus"
+    },
+    {
+      "name": "🔗 no1.no1turk.com - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://no1.no1turk.com:2086/get.php?username=AtillaTirSchlafzimmer&password=74tsNosjpu&type=m3u_plus"
+    },
+    {
+      "name": "🔗 nqpanesp1.top - haki24",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://nqpanesp1.top:8080/get.php?username=angel&password=angel&type=m3u_plus"
+    },
+    {
+      "name": "🔗 nqpanesp1.top - haki24",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://nqpanesp1.top:8080/get.php?username=ES0181174195277596&password=9epjfe5597pe&type=m3u_plus"
+    },
+    {
+      "name": "🔗 redworld.pro - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://redworld.pro:8880/get.php?username=Antonicuentapremium&password=se4eAfr4XWGj&type=m3u_plus"
+    },
+    {
+      "name": "🔗 redworld.pro - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://redworld.pro:8880/get.php?username=@@jorge@@&password=sUksTePsEkgu&type=m3u_plus"
+    },
+    {
+      "name": "🔗 redworld.pro - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://redworld.pro:8880/get.php?username=coperax35&password=Ppv7uCxJWX4y&type=m3u_plus"
+    },
+    {
+      "name": "🔗 ovejasnegrasafu... - Argeo_32",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://ovejasnegrasafull.ofztvxv.top:8080/get.php?username=VIP01851172607258897&password=bf6d85598ee6&type=m3u_plus"
+    },
+    {
+      "name": "🔗 altontestruzleg... - Argeo_32",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://altontestruzlegustaelnepe.neorpahe.top:8080/get.php?username=8651781181484&password=a7ad1a310edd&type=m3u_plus"
+    },
+    {
+      "name": "🔗 31.43.191.125 - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://31.43.191.125:8080/get.php?username=VIP013651746907724438&password=ebf29a657273&type=m3u_plus"
+    },
+    {
+      "name": "🔗 axxfedes.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://axxfedes.top:8080/get.php?username=es4601758206186330&password=0d87daa75cbd&type=m3u_plus"
+    },
+    {
+      "name": "🔗 ayudaavenezuela... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://ayudaavenezuela.hnsefpop.top:8080/get.php?username=181760791715523&password=b45a5961ca1f&type=m3u_plus"
+    },
+    {
+      "name": "🔗 axxfedes.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://axxfedes.top:8080/get.php?username=es4831731771620001&password=b2e35b602cf1&type=m3u_plus"
+    },
+    {
+      "name": "🔗 elmatematicoese... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://elmatematicoeseljotodejc.neospaxy.top:8080/get.php?username=941724507987176&password=2c42369384f8&type=m3u_plus"
+    },
+    {
+      "name": "🔗 elmatematicoese... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://elmatematicoeseljotodejc.neospaxy.top:8080/get.php?username=5421772894928&password=c30ec90b1669&type=m3u_plus"
+    },
+    {
+      "name": "🔗 zk85.hofcepesp1... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://zk85.hofcepesp1.top:8080/get.php?username=es581730704593001&password=42716f3d7e6c&type=m3u_plus&output=m3u8"
+    },
+    {
+      "name": "🔗 vcweomercmvcw.top - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://vcweomercmvcw.top:8080/get.php?username=vip4941772740034&password=5d7706aa989a&type=m3u_plus&output=ts"
+    },
+    {
+      "name": "🔗 porn-hub.stream... - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://porn-hub.streamtv.to:8080/get.php?username=Wolfgang&password=5he6ERunyN&type=m3u_plus"
+    },
+    {
+      "name": "🔗 117.55.202.58 - josepimba",
+      "image": "https://i.ibb.co/k2QCgcW6/iptvlandia.png",
+      "url": "http://117.55.202.58:80/get.php?username=3hEQetL0Qw&password=Ib9A6TaEJJ&type=m3u_plus"
+    }
+  ]
+}
