@@ -6,22 +6,27 @@
   "telegram": "",
   "groups": [
     {
-      "name": "ES 04/04/2027",
+      "name": "TDT ESPAÑA",
+      "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+      "url": "https://www.tdtchannels.com/lists/tvradio.m3u8"
+    },
+    {
+      "name": "ES M+ 04/04/2027 VPN",
       "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
       "url": "https://raw.githubusercontent.com/supervectar-coder/listaES/refs/heads/main/listaES.m3u"
     },
     {
-      "name": "ES 14/12/2026",
+      "name": "ES M+ 14/12/2026 VPN",
       "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
       "url": "https://raw.githubusercontent.com/supervectar-coder/listaES2/refs/heads/main/listaES2.m3u"
     },
     {
-      "name": "ES 10/06/2028",
+      "name": "ES M+10/06/2028 VPN",
       "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
       "url": "https://raw.githubusercontent.com/supervectar-coder/listaES3/refs/heads/main/listaES3.m3u"
     },
     {
-      "name": "ES 13/05/2027",
+      "name": "ES M+ 13/05/2027 VPN",
       "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
       "url": "https://raw.githubusercontent.com/supervectar-coder/listaES4/refs/heads/main/listaES4.m3u"
     },
