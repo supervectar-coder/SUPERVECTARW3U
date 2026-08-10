@@ -5,24 +5,13 @@
 "telegram": "",
 "groups": [
 
-
-{ "name": "ZONA IPTV", 
-"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png", 
-"groups": [
- 
-{"name": "AVISO IMPORTANTE",
-"image": "https://wiseplaytv-josepimbatv@cdn-icons-png.flaticon.com/512/5759/5759757.png",
-"stations": [
  
 {"name": "📲 INFORMACIÓN VPN", 
 "image": "https://wiseplaytv-josepimbatv@i.ibb.co/JdMXbn5/header-tile-1-1-1-1-2x-1.png",
 "info": "Es posible que se necesite en ocasiones dependiendo de vuestro operador de internet usar una vpn para poder visualizar todos los canales. Esto es debido a que hay operadoras que bloquean todo este tipo de contenido. Pulsa aquí para descargar la vpn que más recomendamos de forma gratuita. (Solo si no os funciona)",
 "url": "https://wiseplaytv-josepimbatv@1.1.1.1/",
 "embed": "true"},
- 
-{"name": "A TENER EN CUENTA", 
-"image": "https://wiseplaytv-josepimbatv@www.dl.dropboxusercontent.com/s/iux8zf1obe69np7/logo-precaucion.png",
-"info": "Los enlaces de IPTV son de servidores que en cualquier momento pueden dejar de funcionar. No siempre van a funcionar correctamente aunque siempre intentamos mantenerlo funcionando cambiando servidores y demás cuando se necesita. Por lo que no queremos quejas de ningún tipo si en algún momento deja de funcionar ya que estamos compartiendo nuestro trabajo de forma gratuita y desinteresada como para recibir a cambio quejas sin sentido."}]},
+
 
 {"name": "LISTAS IPTVLANDIA✨️",
 "image": "https://wiseplaytv-josepimbatv@i.ibb.co/k2QCgcW6/iptvlandia.png",
@@ -34,7 +23,7 @@
 
 {"name": "TV A NIVEL MUNDIAL 🌏",
 "image": "https://wiseplaytv-josepimbatv@cdn-icons-png.flaticon.com/512/1436/1436605.png",
-"url": "https://wiseplaytv-josepimbatv@raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"}]}]},
+"url": "https://wiseplaytv-josepimbatv@raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"},
 
 
 {"name": "PELÍCULAS", 
