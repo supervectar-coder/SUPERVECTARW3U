@@ -21,43 +21,51 @@
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/radioespprovincias/refs/heads/main/radio%20esp%20provincias.m3u"},
 
-{ "name": "ES M+ 04/04/2027 VPN",
+{ "name": "ES1 M+ 04/04/2027 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES/refs/heads/main/listaES.m3u" },
 
-{"name": "ES M+ 14/12/2026 VPN",
+{"name": "ES2 M+ 14/12/2026 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES2/refs/heads/main/listaES2.m3u"},
 
-{"name": "ES M+10/06/2028 VPN",
+{"name": "ES3 M+10/06/2028 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES3/refs/heads/main/listaES3.m3u"},
 
-{"name": "ES M+ 13/05/2027 VPN",
+{"name": "ES4 M+ 13/05/2027 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES4/refs/heads/main/listaES4.m3u"},
 
-{"name": "INTERNACIONAL 23/09/2026",
+{"name": "PELIS SERIES 04/10/2026 VPN",
+"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"url": "https://odin5.afroditatv.xyz:8443/get.php?username=4187TF95Vj&password=R7LkOvcTzY&type=m3u_plus"},
+
+{"name": "PELIS SERIES 25/02/2027 VPN",
+"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"url": "http://03022026papedy02xx.latv4.com:8080/get.php?username=paco_pol2&password=34ed34r223&type=m3u_plus"},
+
+{"name": "INTER 23/09/2026 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "http://vpjertrcww.top:8080/get.php?username=antonio_barq&password=d73ypwYzgM5M&type=m3u_plus"},
 
-{"name": "INTERNACIONAL 24/02/2027",
+{"name": "INTER 24/02/2027 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "http://vppyddncr.top:8080/get.php?username=VIP01401171593391679&password=0b3d8c40b851&type=m3u_plus"},
 
-{"name": "INTERNACIONAL 13/07/2027",
+{"name": "INTER 13/07/2027 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "http://vppyddncr.top:8080/get.php?username=vip3821778686846&password=b94a43b5b653&type=m3u_plus&output=ts"},
 
-{"name": "INTERNACIONAL 05/10/2026",
+{"name": "INTER 05/10/2026 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "http://vppyddncr.top:8080/get.php?username=VIP013971759696209991&password=f1e6f059faf2&type=m3u_plus&output=ts"},
 
-{"name": "INTERNACIONAL 15/01/2027",
+{"name": "INTER 15/01/2027 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "http://vppyddncr.top:8080/get.php?username=SVIP0164176667389018&password=m2g7sh664cwu&type=m3u_plus&output=ts"},
 
-{"name": "INTERNACIONAL 10/06/2028",
+{"name": "INTER 10/06/2028 VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "http://vppyddncr.top:8080/get.php?username=VIP01486171803935884&password=c22fa457d49b&type=m3u_plus&output=ts"},
 
