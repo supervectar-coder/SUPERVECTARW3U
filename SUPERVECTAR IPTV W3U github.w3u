@@ -73,25 +73,25 @@
 "image": "https://wiseplaytv-josepimbatv@i.ibb.co/k2QCgcW6/iptvlandia.png",
 "url": "https://gist.githubusercontent.com/josepimba/c03c5a68d1f23c362b6451bb0d3a4bce/raw/iptvlandia.w3u"},
 
-{"name": "LISTA NEW ERA ACESTREAM GITHUB",
+{"name": "DEPORTES ACESTREAM NEW ERA",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/NEWERA/refs/heads/main/lista_fuera_iptv%20(1).m3u"},
 
-{"name": "LISTA NEW ERA ACESTREAM IPFS",
-"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
-"url": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_fuera_iptv.m3u"},
-
-{"name": "LISTA ELCANO ACESTREAM GITHUB",
+{"name": "DEPORTES ACESTREAM ELCANO",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/ELCANO/refs/heads/main/hashes_acestream.m3u"},
 
-{"name": "LISTA ELCANO ACESTREAM IPFS",
-"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
-"url": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/hashes_acestream.m3u"},
-
-{"name": "LISTA TV ACESTREAM GITHUB",
+{"name": "TV ACESTREAM",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaaACEtv/refs/heads/main/lista%20SUPERVECTAR%20ACESTREAM%20TV.m3u"},
+
+{"name": "IPFS NEW ERA ACESTREAM NO DISPONIBLE",
+"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
+"url": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_fuera_iptv.m3u"},
+
+{"name": "IPFS ELCANO ACESTREAM NO DISPONIBLE",
+"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
+"url": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/hashes_acestream.m3u"},
 
 {"name": "LISTA VAVOO",
 "image": "https://i.ibb.co/4ZRTJG5m/livetv.png",
