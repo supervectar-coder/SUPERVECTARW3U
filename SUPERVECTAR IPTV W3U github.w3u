@@ -6,19 +6,19 @@
 "groups": [
 
 {"name": "TV ESPAÑA 🇪🇸",
-"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"image": "https://i.ibb.co/rK7VqKk8/tv.png",
 "url": "https://wiseplaytv-josepimbatv@www.tdtchannels.com/lists/tvradio.m3u"},
 
 {"name": "TV MUNDIAL 🌏",
-"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"image": "https://i.ibb.co/rK7VqKk8/tv.png",
 "url": "https://wiseplaytv-josepimbatv@raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"},
 
 {"name": "RADIO ESPAÑA 🇪🇸",
-"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"image": "https://i.ibb.co/W4zSN8MR/radio.jpg",
 "url": "https://raw.githubusercontent.com/supervectar-coder/radioespa-a/refs/heads/main/radioespa%C3%B1a.m3u"},
 
 {"name": "RADIO PROVINCIAS ESPAÑA 🇪🇸",
-"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"image": "https://i.ibb.co/W4zSN8MR/radio.jpg",
 "url": "https://raw.githubusercontent.com/supervectar-coder/radioespprovincias/refs/heads/main/radio%20esp%20provincias.m3u"},
 
 { "name": "ES1 M+ 04/04/2027 VPN",
