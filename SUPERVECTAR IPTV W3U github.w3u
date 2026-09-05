@@ -29,6 +29,14 @@
 "image": "https://wiseplaytv-josepimbatv@i.ibb.co/k2QCgcW6/iptvlandia.png",
 "url": "https://gist.githubusercontent.com/josepimba/c03c5a68d1f23c362b6451bb0d3a4bce/raw/iptvlandia.w3u"},
 
+{"name": "ZONA ACESTREAM (VPN 1.1.1.1 WARP)",
+"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
+"url": "https://raw.githubusercontent.com/supervectar-coder/ZONAACE/refs/heads/main/ZONA%20ACE.m3u"},
+
+{"name": "ZONA ACESERVE (VPN 1.1.1.1 WARP) En prueba",
+"image": "https://i.ibb.co/chjnQWhN/aceserve.png",
+"url": "https://raw.githubusercontent.com/supervectar-coder/ZONAACESERVE/refs/heads/main/ZONA%20ACESERVE.m3u"},
+
 {"name": "DEPORTES ELCANO ACESTREAM (VPN 1.1.1.1 WARP)",
 "image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/hashes_acestream.m3u"},
