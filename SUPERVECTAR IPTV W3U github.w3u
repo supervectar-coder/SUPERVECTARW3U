@@ -5,6 +5,10 @@
 "telegram": "",
 "groups": [
 
+{"name": "GUIA PROGRAMACION",
+"image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
+"url": "https://raw.githubusercontent.com/supervectar-coder/listaGUIA/refs/heads/main/LISTAGUIAPROGRAMACION.m3u"},
+
 {"name": "TV ESPAÑA 🇪🇸",
 "image": "https://i.ibb.co/rK7VqKk8/tv.png",
 "url": "https://www.tdtchannels.com/lists/tv.m3u"},
