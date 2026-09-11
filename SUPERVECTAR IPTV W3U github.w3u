@@ -5,9 +5,9 @@
 "telegram": "",
 "groups": [
 
-{"name": "GUIA PROGRAMACION",
+{"name": "GUIA TV (WEB)",
 "image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
-"url": "https://raw.githubusercontent.com/supervectar-coder/listaGUIA/refs/heads/main/LISTAGUIAPROGRAMACION.m3u"},
+"url": "https://www.tvguia.es/programacion-tv/programacion-tv-ahora"},
 
 {"name": "TV ESPAÑA 🇪🇸",
 "image": "https://i.ibb.co/rK7VqKk8/tv.png",
