@@ -9,6 +9,10 @@
 "image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
 "url": "https://www.tvguia.es/programacion-tv/programacion-tv-ahora"},
 
+{"name": "TDT ESPAÑA (WEB) 🇪🇸",
+"image": "https://i.ibb.co/rK7VqKk8/tv.png",
+"url": "https://raw.githubusercontent.com/supervectar-coder/listaTDTwebs/refs/heads/main/TDT%20WEBS.m3u"},
+
 {"name": "TV ESPAÑA 🇪🇸",
 "image": "https://i.ibb.co/rK7VqKk8/tv.png",
 "url": "https://www.tdtchannels.com/lists/tv.m3u"},
