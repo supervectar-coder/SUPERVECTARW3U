@@ -41,6 +41,10 @@
 "image": "https://i.ibb.co/chjnQWhN/aceserve.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/ZONAACESERVE/refs/heads/main/ZONA%20ACESERVE.m3u"},
 
+{"name": "PLATAFORMAS TV GRATIS",
+"image": "https://i.ibb.co/dwKHCcBw/Plataformas-de-streaming-gratis-2.jpg",
+"url": "https://raw.githubusercontent.com/supervectar-coder/listasPTVgratis/refs/heads/main/listaPLATAFORMASGRATIS.m3u"},
+
 {"name": "LIVE TV WEBS (VPN)",
 "image": "https://i.ibb.co/4ZRTJG5m/livetv.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaLIVETVwebs/refs/heads/main/listaLIVETVweb.m3u"},
