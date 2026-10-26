@@ -41,6 +41,10 @@
 "image": "https://i.ibb.co/chjnQWhN/aceserve.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/ZONAACESERVE/refs/heads/main/ZONA%20ACESERVE.m3u"},
 
+{"name": "ZONA ACE CANALPEER",
+"image": "https://i.ibb.co/D2xVvgj/canalpeer.png",
+"url": "https://raw.githubusercontent.com/supervectar-coder/ZONACANALPEER/refs/heads/main/ZONA%20CANALPEER.m3u"},
+
 {"name": "LIVE TV WEBS (VPN)",
 "image": "https://i.ibb.co/4ZRTJG5m/livetv.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaLIVETVwebs/refs/heads/main/listaLIVETVweb.m3u"},
